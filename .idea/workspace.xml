@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level0/NumberDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level0/CPRHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberDivision">
+  <component name="RunManager" selected="Application.CPRHandler">
     <configuration name="AngleMerger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level0.AngleMerger" />
+      <module name="java-algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CPRHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level0.CPRHandler" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CPRHandler" />
         <item itemvalue="Application.NumberDivision" />
         <item itemvalue="Application.AngleMerger" />
         <item itemvalue="Application.FillInTheBlanks" />
@@ -111,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738809048947</updated>
-      <workItem from="1738809049965" duration="3298000" />
+      <workItem from="1738809049965" duration="5682000" />
     </task>
     <servers />
   </component>
