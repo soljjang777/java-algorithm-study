@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level0/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level0/NicknameRuleValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,39 +31,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AngleMerger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CPRHandler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FillInTheBlanks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberDivision.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WaterShortage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AngleMerger.executor": "Run",
+    "Application.Bus.executor": "Run",
+    "Application.CPRHandler.executor": "Run",
+    "Application.FillInTheBlanks.executor": "Run",
+    "Application.NicknameRuleValidator.executor": "Debug",
+    "Application.NumberDivision.executor": "Run",
+    "Application.WaterShortage.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Bus">
-    <configuration name="AngleMerger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.AngleMerger" />
-      <module name="java-algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.NicknameRuleValidator">
     <configuration name="Bus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level0.Bus" />
       <module name="java-algorithm-study" />
@@ -79,6 +68,19 @@
     </configuration>
     <configuration name="CPRHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level0.CPRHandler" />
+      <module name="java-algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NicknameRuleValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level0.NicknameRuleValidator" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NicknameRuleValidator" />
         <item itemvalue="Application.Bus" />
         <item itemvalue="Application.WaterShortage" />
         <item itemvalue="Application.CPRHandler" />
         <item itemvalue="Application.NumberDivision" />
-        <item itemvalue="Application.AngleMerger" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738809048947</updated>
       <workItem from="1738809049965" duration="7688000" />
-      <workItem from="1739325527963" duration="785000" />
+      <workItem from="1739325527963" duration="1525000" />
     </task>
     <servers />
   </component>
