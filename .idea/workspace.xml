@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level0/NicknameRuleValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/VideoPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
     "Application.FillInTheBlanks.executor": "Run",
     "Application.NicknameRuleValidator.executor": "Debug",
     "Application.NumberDivision.executor": "Run",
+    "Application.VideoPlayer.executor": "Run",
     "Application.WaterShortage.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -49,10 +50,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Template Data Languages",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NicknameRuleValidator">
+  <component name="RunManager" selected="Application.VideoPlayer">
     <configuration name="Bus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level0.Bus" />
       <module name="java-algorithm-study" />
@@ -92,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.NumberDivision" />
+    <configuration name="VideoPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.VideoPlayer" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VideoPlayer" />
         <item itemvalue="Application.NicknameRuleValidator" />
         <item itemvalue="Application.Bus" />
         <item itemvalue="Application.WaterShortage" />
         <item itemvalue="Application.CPRHandler" />
-        <item itemvalue="Application.NumberDivision" />
       </list>
     </recent_temporary>
   </component>
@@ -144,11 +146,15 @@
       <option name="presentableId" value="Default" />
       <updated>1738809048947</updated>
       <workItem from="1738809049965" duration="7688000" />
-      <workItem from="1739325527963" duration="1525000" />
+      <workItem from="1739325527963" duration="10628000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
