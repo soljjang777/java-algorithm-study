@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/VideoPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/BillFoldPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AngleMerger.executor": "Run",
+    "Application.BillFoldPattern.executor": "Run",
     "Application.Bus.executor": "Run",
     "Application.CPRHandler.executor": "Run",
     "Application.FillInTheBlanks.executor": "Run",
@@ -54,13 +55,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VideoPlayer">
-    <configuration name="Bus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.Bus" />
+  <component name="RunManager" selected="Application.BillFoldPattern">
+    <configuration name="BillFoldPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.BillFoldPattern" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CPRHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.CPRHandler" />
+    <configuration name="Bus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level0.Bus" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BillFoldPattern" />
         <item itemvalue="Application.VideoPlayer" />
         <item itemvalue="Application.NicknameRuleValidator" />
         <item itemvalue="Application.Bus" />
         <item itemvalue="Application.WaterShortage" />
-        <item itemvalue="Application.CPRHandler" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738809048947</updated>
       <workItem from="1738809049965" duration="7688000" />
-      <workItem from="1739325527963" duration="10628000" />
+      <workItem from="1739325527963" duration="10774000" />
+      <workItem from="1739497707837" duration="2150000" />
     </task>
     <servers />
   </component>
