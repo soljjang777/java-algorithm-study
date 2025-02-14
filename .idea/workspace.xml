@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/doIt/arrayAndList/NumberSumCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/level1/PicnicMat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doIt/arrayAndList/AverageCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/AngleMerger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/AngleMerger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/CPRHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/CPRHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/FillInTheBlanks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/FillInTheBlanks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/MilitaryCategoryClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/MilitaryCategoryClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/NicknameRuleValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/NicknameRuleValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/NumberDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/NumberDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level0/WaterShortage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/WaterShortage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/BillFoldPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/BillFoldPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/VideoPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AngleMerger.executor": "Run",
+    "Application.AverageCalculator.executor": "Run",
     "Application.BillFoldPattern.executor": "Run",
     "Application.Bus.executor": "Run",
     "Application.CPRHandler.executor": "Run",
@@ -69,13 +58,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberSumCalculator">
-    <configuration name="BillFoldPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.level1.BillFoldPattern" />
+  <component name="RunManager" selected="Application.AverageCalculator">
+    <configuration name="AverageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doIt.arrayAndList.AverageCalculator" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.level1.*" />
+          <option name="PATTERN" value="doIt.arrayAndList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NicknameRuleValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.level0.NicknameRuleValidator" />
+    <configuration name="BillFoldPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.level1.BillFoldPattern" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.level0.*" />
+          <option name="PATTERN" value="programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageCalculator" />
         <item itemvalue="Application.NumberSumCalculator" />
         <item itemvalue="Application.PicnicMat" />
         <item itemvalue="Application.BillFoldPattern" />
         <item itemvalue="Application.VideoPlayer" />
-        <item itemvalue="Application.NicknameRuleValidator" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +153,7 @@
       <workItem from="1739325527963" duration="10774000" />
       <workItem from="1739497707837" duration="5879000" />
       <workItem from="1739506554021" duration="1843000" />
-      <workItem from="1739510107472" duration="649000" />
+      <workItem from="1739510107472" duration="4776000" />
     </task>
     <servers />
   </component>
