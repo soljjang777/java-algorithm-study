@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/BillFoldPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doIt/arrayAndList/NumberSumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/level1/PicnicMat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/AngleMerger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/AngleMerger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/CPRHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/CPRHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/FillInTheBlanks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/FillInTheBlanks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/MilitaryCategoryClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/MilitaryCategoryClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/NicknameRuleValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/NicknameRuleValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/NumberDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/NumberDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/WaterShortage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level0/WaterShortage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/BillFoldPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/BillFoldPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/level1/VideoPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +52,8 @@
     "Application.FillInTheBlanks.executor": "Run",
     "Application.NicknameRuleValidator.executor": "Debug",
     "Application.NumberDivision.executor": "Run",
+    "Application.NumberSumCalculator.executor": "Run",
+    "Application.PicnicMat.executor": "Run",
     "Application.VideoPlayer.executor": "Run",
     "Application.WaterShortage.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -55,26 +69,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BillFoldPattern">
+  <component name="RunManager" selected="Application.NumberSumCalculator">
     <configuration name="BillFoldPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.BillFoldPattern" />
+      <option name="MAIN_CLASS_NAME" value="programmers.level1.BillFoldPattern" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.Bus" />
-      <module name="java-algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +84,37 @@
       </method>
     </configuration>
     <configuration name="NicknameRuleValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.NicknameRuleValidator" />
+      <option name="MAIN_CLASS_NAME" value="programmers.level0.NicknameRuleValidator" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="programmers.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberSumCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doIt.arrayAndList.NumberSumCalculator" />
+      <module name="java-algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doIt.arrayAndList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PicnicMat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.level1.PicnicMat" />
+      <module name="java-algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,24 +123,11 @@
       </method>
     </configuration>
     <configuration name="VideoPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.VideoPlayer" />
+      <option name="MAIN_CLASS_NAME" value="programmers.level1.VideoPlayer" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaterShortage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.WaterShortage" />
-      <module name="java-algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberSumCalculator" />
+        <item itemvalue="Application.PicnicMat" />
         <item itemvalue="Application.BillFoldPattern" />
         <item itemvalue="Application.VideoPlayer" />
         <item itemvalue="Application.NicknameRuleValidator" />
-        <item itemvalue="Application.Bus" />
-        <item itemvalue="Application.WaterShortage" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +162,9 @@
       <updated>1738809048947</updated>
       <workItem from="1738809049965" duration="7688000" />
       <workItem from="1739325527963" duration="10774000" />
-      <workItem from="1739497707837" duration="2150000" />
+      <workItem from="1739497707837" duration="5879000" />
+      <workItem from="1739506554021" duration="1843000" />
+      <workItem from="1739510107472" duration="649000" />
     </task>
     <servers />
   </component>

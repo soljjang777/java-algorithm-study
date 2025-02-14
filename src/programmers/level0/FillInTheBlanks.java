@@ -1,4 +1,4 @@
-package level0;
+package programmers.level0;
 
 public class FillInTheBlanks {
     // 주어진 코드는 변수에 데이터를 저장하고 출력하는 코드입니다.
