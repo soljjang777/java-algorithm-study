@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c39ab37-3f3a-4a46-837a-bc9aca837c82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/doIt/SumArray/P1806_부분합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doIt/SumArray/P11660_구간합구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.NumberDivision.executor": "Run",
     "Application.NumberSumCalculator.executor": "Run",
     "Application.P11659_구간합구하기.executor": "Run",
+    "Application.P11660_구간합구하기.executor": "Run",
     "Application.P1806_부분합.executor": "Run",
     "Application.P2018_연속된자연수의합.executor": "Run",
     "Application.PicnicMat.executor": "Run",
@@ -65,13 +66,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P1806_부분합">
-    <configuration name="AverageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doIt.arrayAndList.AverageCalculator" />
+  <component name="RunManager" selected="Application.P11660_구간합구하기">
+    <configuration name="P11659_구간합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doIt.SumArray.P11659_구간합구하기" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doIt.arrayAndList.*" />
+          <option name="PATTERN" value="doIt.SumArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11659_구간합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doIt.SumArray.P11659_구간합구하기" />
+    <configuration name="P11660_구간합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doIt.SumArray.P11660_구간합구하기" />
       <module name="java-algorithm-study" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P11660_구간합구하기" />
         <item itemvalue="Application.P1806_부분합" />
         <item itemvalue="Application.P2018_연속된자연수의합" />
         <item itemvalue="Application.SpeedTest" />
         <item itemvalue="Application.P11659_구간합구하기" />
-        <item itemvalue="Application.AverageCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +162,7 @@
       <workItem from="1739497707837" duration="5879000" />
       <workItem from="1739506554021" duration="1843000" />
       <workItem from="1739510107472" duration="5280000" />
-      <workItem from="1739589762677" duration="23144000" />
+      <workItem from="1739589762677" duration="30569000" />
     </task>
     <servers />
   </component>
