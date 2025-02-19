@@ -1,4 +1,4 @@
-package doIt.SumArray;
+package doIt.자료구조.구간의합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

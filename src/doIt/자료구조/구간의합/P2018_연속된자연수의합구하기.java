@@ -1,8 +1,8 @@
-package doIt.SumArray;
+package doIt.자료구조.구간의합;
 
 import java.util.Scanner;
 
-public class P2018_연속된자연수의합 {
+public class P2018_연속된자연수의합구하기 {
     // 시간제한 2초
     // 난이도 실버 5
     // 백준 온라인 저지 2018번

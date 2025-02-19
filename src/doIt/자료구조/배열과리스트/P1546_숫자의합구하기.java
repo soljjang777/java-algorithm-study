@@ -1,11 +1,11 @@
-package doIt.arrayAndList;
+package doIt.자료구조.배열과리스트;
 
 import java.util.Scanner;
 
-public class NumberSumCalculator {
+public class P1546_숫자의합구하기 {
     // 시간제한 1초
     // 난이도 브론즈 2
-    // 백준 온라인 저지 11720번
+    // 백준 온라인 저지 v번
 
     // 입력
     // 1번째 줄에 숫자의 개수 N(1 <= N <= 100), 2번째 줄에 숫자 N개가 공백 없이 주어진다.

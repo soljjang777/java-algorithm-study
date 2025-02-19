@@ -1,11 +1,11 @@
-package doIt.SumArray;
+package doIt.자료구조.구간의합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class P11660_구간합구하기 {
+public class P11660_구간합구하기2 {
     // 시간제한 1초
     // 난이도 실버 1
     // 백준 온라인 저지 11660번

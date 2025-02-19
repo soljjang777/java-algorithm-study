@@ -1,9 +1,8 @@
-package doIt.arrayAndList;
+package doIt.자료구조.배열과리스트;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class AverageCalculator {
+public class P1546_평군구하기 {
     // 시간제한 2초
     // 난이도 브론즈 1
     // 백준 온라인 저지 1546번
